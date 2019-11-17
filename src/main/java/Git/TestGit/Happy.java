@@ -6,5 +6,6 @@ public class Happy {
 		System.out.println("eclipse2");
 		//新的分支给boss
 		System.out.println("hot-fix");
+		//审批通过 可以合并
 	}
 }
